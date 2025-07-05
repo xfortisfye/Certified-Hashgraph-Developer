@@ -37,11 +37,7 @@ and follow the instructions in the "pre-requisites" section of the accompanying 
 
 ### How to run using Gitpod
 
-To run on Gitpod (a cloud development environment), click the button below:
-
-<a href="https://gitpod.io/?autostart=true&editor=code&workspaceClass=g1-standard#https://github.com/hedera-dev/hello-future-world-js" target="_blank" rel="noreferrer">
-  <img src="./img/gitpod-open-button.svg" />
-</a>
+To run on [Gitpod](https://gitpod.io/?autostart=true&editor=code&workspaceClass=g1-standard#https://github.com/hedera-dev/hello-future-world-js) (a cloud development environment)
 
 1. Wait for Gitpod to load, this should take less than 10 seconds
 1. In the VS code terminal, you should see 3 terminals, `rpcrelay_pull`, `rpcrelay_run`, and `main`
