@@ -1,1 +1,1 @@
-# Hashgraph_Developer_Course
+# Certified_Hedera_Hashgraph_Developer
