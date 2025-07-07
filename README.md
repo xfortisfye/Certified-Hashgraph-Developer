@@ -1,1 +1,1 @@
-# Certified-Hedera-Hashgraph-Developer
+# Certified-Hashgraph-Developer
